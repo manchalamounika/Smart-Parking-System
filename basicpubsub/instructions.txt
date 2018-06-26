@@ -1,0 +1,5 @@
+1. Remove _send from folder name
+2. cd basicpubsub
+3. npm install
+4. source confidential.json
+5. node index.js

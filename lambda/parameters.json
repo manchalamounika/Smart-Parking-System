@@ -1,0 +1,6 @@
+export apiKey=AIzaSyB08oUGktikNv9AnsKle7yTNH4ajtjuSW8
+export authDomain=awsiotlambdainteg.firebaseapp.com
+export databaseURL=awsiotlambdainteg.firebaseio.com
+export projectId=awsiotlambdainteg
+export storageBucket=awsiotlambdainteg.appspot.com
+export messagingSenderId=324447664557

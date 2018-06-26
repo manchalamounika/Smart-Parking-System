@@ -1,0 +1,5 @@
+export privateKey=1877c4db8c-private.key
+export clientCertificate=1877c4db8c-certificate.cert.pem
+export caCertificate=root-CA.crt
+export hostname=a3esojh98xaqm2.iot.us-west-2.amazonaws.com
+export clientId=macbook
